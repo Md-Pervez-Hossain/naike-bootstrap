@@ -54,3 +54,7 @@ body {
 .fa-cart-shopping-custom {
   margin-right: 5px;
 }
+.brand {
+  font-family: "Bebas Neue", cursive;
+  font-size: 4rem;
+}
