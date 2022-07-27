@@ -58,3 +58,6 @@ body {
   font-family: "Bebas Neue", cursive;
   font-size: 4rem;
 }
+.pagination li a {
+  color: #3d4ff3;
+}
