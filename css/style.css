@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Bebas Neue", cursive;
+  font-family: "Roboto", sans-serif;
+}
+.header-background {
+  background-color: #fff9f4;
+}
+.nike-info h1 {
+  font-size: 5rem;
+  line-height: 5rem;
+  font-family: "Bebas Neue", cursive;
+  color: #363958;
+}
+.nike-info h1 span {
+  color: #fa804c;
+}
+.nike-info p {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  color: #3e3e3e;
+}
+.buy-now-btn {
+  background-color: #3d4ff3;
+  color: #fff;
+  border: 2px solid #3d4ff3;
+  margin-left: 10px;
+}
+.buy-now-btn:hover {
+  background-color: transparent;
+  border: 2px solid #3d4ff3;
+  color: #fa804c;
+}
+.section-heading {
+  font-family: "Bebas Neue", cursive;
+  font-size: 3rem;
+  margin: 50px 0;
+}
+.bg-img {
+  background-color: #f1f1f1;
+}
+.price {
+  font-size: 2rem;
+  font-weight: 500;
+  color: #fa804c;
+}
+.card-section {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.fa-cart-shopping-custom {
+  margin-right: 5px;
+}
